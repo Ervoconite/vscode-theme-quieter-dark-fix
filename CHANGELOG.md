@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "quieter-dark-color-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [fix] --2023-12-19
 
-## [Unreleased]
-
-- Initial release
+- fixed somewhere syntax too dark, especially in `markdown` code blocks.

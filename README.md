@@ -1,4 +1,6 @@
-# Quieter Dark
+# Quieter Dark [Fix]  
+
+> Forked from [github.com/championswimmer/vscode-theme-quieter-dark](https://github.com/championswimmer/vscode-theme-quieter-dark)
 
 Dark version of VS Code's default `Quiet Dark` theme.
 
@@ -6,15 +8,20 @@ Dark version of VS Code's default `Quiet Dark` theme.
 [![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/championswimmer.quieter-dark-color-theme)](https://marketplace.visualstudio.com/items?itemName=championswimmer.quieter-dark-color-theme)
 [![GitHub issues](https://img.shields.io/github/issues/championswimmer/vscode-theme-quieter-dark)](https://github.com/championswimmer/vscode-theme-quieter-dark/issues)
 
-## Sample 
+## Sample  
 
-![](./screenshot.png)
+![img](./screenshot.png)
 
-## Source Code 
+## Fixed  
+
+![img](./fixed.png)
+
+
+## Source Code  
 
 <https://github.com/championswimmer/vscode-theme-quieter-dark>
 
-## Attribution
+## Attribution  
 
 If you like this theme, please consider
 
@@ -24,6 +31,6 @@ If you like this theme, please consider
 
 
 
-## License
+## License  
 
 This theme is released under the MIT License. See [LICENSE.md](./LICENSE.md) for more details.

@@ -1,12 +1,12 @@
 {
-  "name": "quieter-dark-color-theme",
-  "displayName": "Quieter Dark Color Theme",
+  "name": "quieter-dark-color-theme-fix",
+  "displayName": "Quieter Dark Color Theme Fix",
   "description": "Dark version of the default Quiet Light color theme",
-  "version": "0.1.0",
-  "publisher": "championswimmer",
+  "version": "1.0.1",
+  "publisher": "Ervoconite",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -22,14 +22,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/championswimmer/vscode-theme-quieter-dark"
+    "url": "https://github.com/Ervoconite/vscode-theme-quieter-dark-fix"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Quieter Dark",
+        "label": "Quieter Dark Fix",
         "uiTheme": "vs-dark",
-        "path": "./themes/Quieter Dark-color-theme.json"
+        "path": "./themes/Quieter Dark-color-theme-fix.json"
       }
     ]
   }
